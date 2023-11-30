@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'jnsereko', // Your GitHub org/user name. (Required)
+    username: 'Nsereko Joshua', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -24,7 +24,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://github.com/jnsereko',
     phone: ''+256740383427,
     email: 'nserekojowashi@gmail.com',
   },
@@ -33,8 +33,10 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'java',
+    'python',
+    'go',
+    'perl',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -47,6 +49,8 @@ const config = {
     'CSS',
     'Antd',
     'Tailwind',
+    'PHP',
+    'Laravel',
   ],
   experiences: [
     {
@@ -134,10 +138,10 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
+      'bumblebee',
       'light',
       'dark',
       'cupcake',
-      'bumblebee',
       'emerald',
       'corporate',
       'synthwave',
